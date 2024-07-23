@@ -31,6 +31,7 @@ You are required to design and implement the Vic Modern Hotel network. The hotel
 * In the IT department, add a PC called Test-PC to port fa0/1 and use it to test remote login.
 * Configure port security to IT-dept switch to allow only Test-PC to access port fa0/1 (use sticky method to obtain mac-address with violation mode of shutdown.)
 
+
 👉 Technologies Implemented
 1. Creating a network topology using Cisco Packet Tracer.
 2. Hierarchical Network Design.
