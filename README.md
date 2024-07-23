@@ -11,6 +11,7 @@ You are required to design and implement the Vic Modern Hotel network. The hotel
 * Each floor is expected to have WIFI networks connected to laptops and phones.
 * Each department is expected to have a printer.
 * Each department is expected to be in a different VLAN with the following details;
+
 * 1st Floor;
 - Reception- VLAN 80, Network of 192.168.8.0/24
 - Store- VLAN 70, Network of 192.168.7.0/24
@@ -22,6 +23,7 @@ You are required to design and implement the Vic Modern Hotel network. The hotel
 * 3rd Floor;
 - Admin- VLAN 20, Network of 192.168.2.0/24
 - IT- VLAN 10, Network of 192.168.1.0/24
+
 * Use OSPF as the routing protocol to advertise routes.
 * All devices in the network are expected to obtain IP addresses dynamically with their respective router configured as the DHCP server.
 * All the devices in the network are expected to communicate with each other.
