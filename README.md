@@ -1,7 +1,7 @@
 # Hotal-System-Network
 Design and Implementation of a Hotel System Network Design
 
->> Case Study and Requirements
+Case Study and Requirements
 You are required to design and implement the Vic Modern Hotel network. The hotel has three floors; on the first floor there are three departments (Reception, store, and Logistics), on the second floor there are three departments (Finance, HR, and Sales/Marketing), on the third floor the IT and Admin. Therefore, the following are part of the considerations during the design and implementation;
 * There should be three routers connecting each floor (all placed in the server room in the IT department).
 * All routers should be connected to each other using serial DCE cables.
@@ -29,7 +29,7 @@ You are required to design and implement the Vic Modern Hotel network. The hotel
 * In the IT department, add a PC called Test-PC to port fa0/1 and use it to test remote login.
 * Configure port security to IT-dept switch to allow only Test-PC to access port fa0/1 (use sticky method to obtain mac-address with violation mode of shutdown.)
 
->> Technologies Implemented
+Technologies Implemented
 1. Creating a network topology using Cisco Packet Tracer.
 2. Hierarchical Network Design.
 3. Connecting Networking devices with Correct cabling.
